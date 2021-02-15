@@ -8,3 +8,5 @@
 |1754|[Largest Merge Of Two Strings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1754.cpp)|Medium|
 |1755|[Closest Subsequence Sum](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1755.cpp)|Hard|
 |1759|[Count Number of Homogenous Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1759.cpp)|Medium|
+|1759|[Count Number of Homogenous Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1759.cpp)|Medium|
+|1760|[Minimum Limit of Balls in a Bag](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1760.cpp)|Medium|
