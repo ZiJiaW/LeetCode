@@ -9,3 +9,4 @@
 |1755|[Closest Subsequence Sum](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1755.cpp)|Hard|
 |1759|[Count Number of Homogenous Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1759.cpp)|Medium|
 |1760|[Minimum Limit of Balls in a Bag](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1760.cpp)|Medium|
+|1761|[Minimum Degree of a Connected Trio in a Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1761.cpp)|Hard|
