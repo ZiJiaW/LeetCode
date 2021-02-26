@@ -14,3 +14,4 @@
 |1761|[Minimum Degree of a Connected Trio in a Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1761.cpp)|Hard|
 |1764|[Form Array by Concatenating Subarrays of Another Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1764.cpp)|Medium|
 |1765|[Map of Highest Peak](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1765.cpp)|Medium|
+|1766|[Tree of Coprimes](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1766.cpp)|Hard|
