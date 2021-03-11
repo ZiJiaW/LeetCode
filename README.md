@@ -18,3 +18,4 @@
 |1773|[Count Items Matching a Rule](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1773.cpp)|Easy|
 |1774|[Closest Dessert Cost](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1774.cpp)|Medium|
 |1775|[Equal Sum Arrays With Minimum Number of Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1775.cpp)|Medium|
+|1776|[Car Fleet II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1776.cpp)|Hard|
