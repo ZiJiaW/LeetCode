@@ -19,3 +19,5 @@
 |1774|[Closest Dessert Cost](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1774.cpp)|Medium|
 |1775|[Equal Sum Arrays With Minimum Number of Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1775.cpp)|Medium|
 |1776|[Car Fleet II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1776.cpp)|Hard|
+|1791|[Find Center of Star Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1791.cpp)|Medium|
+|1792|[Maximum Average Pass Ratio](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1792.cpp)|Medium|
