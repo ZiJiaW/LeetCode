@@ -22,3 +22,6 @@
 |1781|[Sum of Beauty of All Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1781.cpp)|Medium|
 |1791|[Find Center of Star Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1791.cpp)|Medium|
 |1792|[Maximum Average Pass Ratio](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1792.cpp)|Medium|
+|1837|[Sum of Digits in Base K](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1837.cpp)|Easy|
+|1838|[Frequency of the Most Frequent Element](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1838.cpp)|Medium|
+|1839|[Longest Substring Of All Vowels in Order](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1839.cpp)|Medium|
