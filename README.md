@@ -25,3 +25,4 @@
 |1837|[Sum of Digits in Base K](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1837.cpp)|Easy|
 |1838|[Frequency of the Most Frequent Element](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1838.cpp)|Medium|
 |1839|[Longest Substring Of All Vowels in Order](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1839.cpp)|Medium|
+|1840|[Maximum Building Height](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1840.cpp)|Hard|
