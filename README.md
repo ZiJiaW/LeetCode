@@ -26,6 +26,10 @@
 |1838|[Frequency of the Most Frequent Element](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1838.cpp)|Medium|
 |1839|[Longest Substring Of All Vowels in Order](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1839.cpp)|Medium|
 |1840|[Maximum Building Height](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1840.cpp)|Hard|
+|1844|[Replace All Digits with Characters](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1844.cpp)|Medium|
+|1845|[Seat Reservation Manager](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1845.cpp)|Medium|
+|1846|[Maximum Element After Decreasing and Rearranging](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1846.cpp)|Medium|
+|1847|[Closest Room](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1847.cpp)|Hard|
 |1848|[Minimum Distance to the Target Element](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1848.cpp)|Easy|
 |1849|[Splitting a String Into Descending Consecutive Values](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1849.cpp)|Medium|
 |1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1850.cpp)|Medium|
