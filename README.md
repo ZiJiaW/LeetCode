@@ -34,3 +34,4 @@
 |1849|[Splitting a String Into Descending Consecutive Values](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1849.cpp)|Medium|
 |1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1850.cpp)|Medium|
 |1851|[Minimum Interval to Include Each Query](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1851.cpp)|Hard|
+|1856|[Maximum Subarray Min-Product](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1856.cpp)|Medium|
