@@ -35,3 +35,6 @@
 |1850|[Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1850.cpp)|Medium|
 |1851|[Minimum Interval to Include Each Query](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1851.cpp)|Hard|
 |1856|[Maximum Subarray Min-Product](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1856.cpp)|Medium|
+|1863|[Sum of All Subset XOR Totals](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1863.cpp)|Easy|
+|1864|[Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1864.cpp)|Medium|
+|1865|[Finding Pairs With a Certain Sum](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1865.cpp)|Medium|
