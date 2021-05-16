@@ -38,3 +38,4 @@
 |1863|[Sum of All Subset XOR Totals](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1863.cpp)|Easy|
 |1864|[Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1864.cpp)|Medium|
 |1865|[Finding Pairs With a Certain Sum](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1865.cpp)|Medium|
+|1866|[Number of Ways to Rearrange Sticks With K Sticks Visible](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1866.cpp)|Hard|
