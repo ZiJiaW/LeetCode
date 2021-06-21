@@ -40,3 +40,10 @@
 |1865|[Finding Pairs With a Certain Sum](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1865.cpp)|Medium|
 |1866|[Number of Ways to Rearrange Sticks With K Sticks Visible](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1866.cpp)|Hard|
 |1871|[Jump Game VII](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1871.cpp)|Medium|
+|1903|[Largest Odd Number in String](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1903.cpp)|Easy|
+|1904|[The Number of Full Rounds You Have Played](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1904.cpp)|Medium|
+|1905|[Count Sub Islands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1905.cpp)|Medium|
+|1906|[Minimum Absolute Difference Queries](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1906.cpp)|Medium|
+
+
+
