@@ -45,6 +45,7 @@
 |1904|[The Number of Full Rounds You Have Played](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1904.cpp)|Medium|
 |1905|[Count Sub Islands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1905.cpp)|Medium|
 |1906|[Minimum Absolute Difference Queries](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1906.cpp)|Medium|
+|1915|[Number of Wonderful Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1915.cpp)|Medium|
 
 
 
