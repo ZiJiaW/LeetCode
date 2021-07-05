@@ -2,6 +2,7 @@
 
 |No.|Name|Hardness|
 |---|---|---|
+|866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
 |1722|[Minimize Hamming Distance After Swap Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1722.cpp)|Medium|
 |1726|[Tuple with Same Product](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1726.cpp)|Medium|
 |1734|[Decode XORed Permutation](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1734.cpp)|Medium|
