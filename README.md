@@ -2,6 +2,7 @@
 
 |No.|Name|Hardness|
 |---|---|---|
+|300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
 |1722|[Minimize Hamming Distance After Swap Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1722.cpp)|Medium|
 |1726|[Tuple with Same Product](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1726.cpp)|Medium|
@@ -47,6 +48,8 @@
 |1905|[Count Sub Islands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1905.cpp)|Medium|
 |1906|[Minimum Absolute Difference Queries](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1906.cpp)|Medium|
 |1915|[Number of Wonderful Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1915.cpp)|Medium|
+|1962|[Remove Stones to Minimize the Total](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1962.cpp)|Medium|
+|1963|[Minimum Number of Swaps to Make the String Balanced](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1963.cpp)|Medium|
 
 
 
