@@ -50,6 +50,9 @@
 |1915|[Number of Wonderful Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1915.cpp)|Medium|
 |1962|[Remove Stones to Minimize the Total](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1962.cpp)|Medium|
 |1963|[Minimum Number of Swaps to Make the String Balanced](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1963.cpp)|Medium|
+|1968|[Array With Elements Not Equal to Average of Neighbors](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1968.cpp)|Medium|
+|1969|[Minimum Non-Zero Product of the Array Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1969.cpp)|Medium|
+|1970|[Last Day Where You Can Still Cross](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1970.cpp)|Hard|
 
 
 
