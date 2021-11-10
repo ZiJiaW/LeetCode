@@ -55,6 +55,8 @@
 |1970|[Last Day Where You Can Still Cross](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1970.cpp)|Hard|
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2058.cpp)|Medium|
 |2059|[Minimum Operations to Convert Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2059.cpp)|Medium|
+|2060|[Check if an Original String Exists Given Two Encoded Strings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2060.cpp)|Hard|
+|2063|[Vowels of All Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2063.cpp)|Medium|
 
 
 
