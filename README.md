@@ -59,6 +59,8 @@
 |2063|[Vowels of All Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2063.cpp)|Medium|
 |2064|[Minimized Maximum of Products Distributed to Any Store](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2064.cpp)|Medium|
 |2065|[Maximum Path Quality of a Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2065.cpp)|Hard|
+|2074|[Reverse Nodes in Even Length Groups](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2074.cpp)|Medium|
+|2075|[Decode the Slanted Ciphertext](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2075.cpp)|Medium|
 
 
 
