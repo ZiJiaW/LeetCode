@@ -61,6 +61,7 @@
 |2065|[Maximum Path Quality of a Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2065.cpp)|Hard|
 |2074|[Reverse Nodes in Even Length Groups](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2074.cpp)|Medium|
 |2075|[Decode the Slanted Ciphertext](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2075.cpp)|Medium|
+|2076|[Process Restricted Friend Requests](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2076.cpp)|Hard|
 
 
 
