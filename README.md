@@ -5,6 +5,7 @@
 |300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
 |1585|[Check If String Is Transformable With Substring Sort Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1585.cpp)|Hard|
+|1670|[Design Front Middle Back Queue](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1670.cpp)|Medium|
 |1722|[Minimize Hamming Distance After Swap Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1722.cpp)|Medium|
 |1726|[Tuple with Same Product](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1726.cpp)|Medium|
 |1734|[Decode XORed Permutation](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1734.cpp)|Medium|
