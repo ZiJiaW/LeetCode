@@ -4,6 +4,7 @@
 |---|---|---|
 |300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
+|1420|[Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1420.cpp)|Hard|
 |1585|[Check If String Is Transformable With Substring Sort Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1585.cpp)|Hard|
 |1670|[Design Front Middle Back Queue](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1670.cpp)|Medium|
 |1722|[Minimize Hamming Distance After Swap Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1722.cpp)|Medium|
