@@ -67,6 +67,8 @@
 |2075|[Decode the Slanted Ciphertext](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2075.cpp)|Medium|
 |2076|[Process Restricted Friend Requests](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2076.cpp)|Hard|
 |2080|[Range Frequency Queries](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2080.cpp)|Medium|
+|2081|[Sum of k-Mirror Numbers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2081.cpp)|Hard|
+|2086|[Minimum Number of Buckets Required to Collect Rainwater from Houses](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2086.cpp)|Medium|
 
 
 
