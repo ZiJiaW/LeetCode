@@ -4,6 +4,7 @@
 |---|---|---|
 |300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1293.cpp)|Hard|
 |1420|[Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1420.cpp)|Hard|
 |1585|[Check If String Is Transformable With Substring Sort Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1585.cpp)|Hard|
 |1670|[Design Front Middle Back Queue](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1670.cpp)|Medium|
@@ -69,6 +70,7 @@
 |2080|[Range Frequency Queries](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2080.cpp)|Medium|
 |2081|[Sum of k-Mirror Numbers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2081.cpp)|Hard|
 |2086|[Minimum Number of Buckets Required to Collect Rainwater from Houses](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2086.cpp)|Medium|
+|2087|[Minimum Cost Homecoming of a Robot in a Grid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2087.cpp)|Medium|
 
 
 
