@@ -71,6 +71,7 @@
 |2081|[Sum of k-Mirror Numbers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2081.cpp)|Hard|
 |2086|[Minimum Number of Buckets Required to Collect Rainwater from Houses](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2086.cpp)|Medium|
 |2087|[Minimum Cost Homecoming of a Robot in a Grid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2087.cpp)|Medium|
+|2088|[Count Fertile Pyramids in a Land](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2088.cpp)|Hard|
 |2091|[Removing Minimum and Maximum From Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2091.cpp)|Medium|
 
 
