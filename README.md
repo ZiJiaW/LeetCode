@@ -64,6 +64,7 @@
 |2063|[Vowels of All Substrings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2063.cpp)|Medium|
 |2064|[Minimized Maximum of Products Distributed to Any Store](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2064.cpp)|Medium|
 |2065|[Maximum Path Quality of a Graph](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2065.cpp)|Hard|
+|2070|[Most Beautiful Item for Each Query](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2070.cpp)|Medium|
 |2074|[Reverse Nodes in Even Length Groups](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2074.cpp)|Medium|
 |2075|[Decode the Slanted Ciphertext](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2075.cpp)|Medium|
 |2076|[Process Restricted Friend Requests](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2076.cpp)|Hard|
