@@ -74,6 +74,9 @@
 |2087|[Minimum Cost Homecoming of a Robot in a Grid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2087.cpp)|Medium|
 |2088|[Count Fertile Pyramids in a Land](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2088.cpp)|Hard|
 |2091|[Removing Minimum and Maximum From Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2091.cpp)|Medium|
+|2095|[Delete the Middle Node of a Linked List](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2095.cpp)|Medium|
+|2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2096.cpp)|Medium|
+|2097|[Valid Arrangement of Pairs](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2097.cpp)|Hard|
 
 
 
