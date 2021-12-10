@@ -58,6 +58,8 @@
 |1968|[Array With Elements Not Equal to Average of Neighbors](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1968.cpp)|Medium|
 |1969|[Minimum Non-Zero Product of the Array Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1969.cpp)|Medium|
 |1970|[Last Day Where You Can Still Cross](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1970.cpp)|Hard|
+|2054|[Two Best Non-Overlapping Events](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2054.cpp)|Medium|
+|2055|[Plates Between Candles](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2055.cpp)|Medium|
 |2058|[Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2058.cpp)|Medium|
 |2059|[Minimum Operations to Convert Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2059.cpp)|Medium|
 |2060|[Check if an Original String Exists Given Two Encoded Strings](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2060.cpp)|Hard|
