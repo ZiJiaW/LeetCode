@@ -79,6 +79,9 @@
 |2095|[Delete the Middle Node of a Linked List](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2095.cpp)|Medium|
 |2096|[Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2096.cpp)|Medium|
 |2097|[Valid Arrangement of Pairs](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2097.cpp)|Hard|
+|2104|[Sum of Subarray Ranges](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2104.cpp)|Medium|
+|2105|[Watering Plants II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2105.cpp)|Medium|
+|2106|[Maximum Fruits Harvested After at Most K Steps](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2106.cpp)|Hard|
 
 
 
