@@ -4,6 +4,8 @@
 |---|---|---|
 |300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
+|1145|[Binary Tree Coloring Game](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1145.cpp)|Medium|
+|1146|[Snapshot Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1146.cpp)|Medium|
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1293.cpp)|Hard|
 |1420|[Build Array Where You Can Find The Maximum Exactly K Comparisons](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1420.cpp)|Hard|
 |1585|[Check If String Is Transformable With Substring Sort Operations](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1585.cpp)|Hard|
