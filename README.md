@@ -2,7 +2,8 @@
 
 |No.|Name|Hardness|
 |---|---|---|
-|300|[300. Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
+|300|[Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
+|765|[Couples Holding Hands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/765.cpp)|Hard|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
 |1145|[Binary Tree Coloring Game](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1145.cpp)|Medium|
 |1146|[Snapshot Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/1146.cpp)|Medium|
