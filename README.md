@@ -96,6 +96,9 @@
 |2120|[Execution of All Suffix Instructions Staying in a Grid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2120.cpp)|Medium|
 |2121|[Intervals Between Identical Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2121.cpp)|Medium|
 |2122|[Recover the Original Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2122.cpp)|Hard|
+|2125|[Number of Laser Beams in a Bank](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2125.cpp)|Medium|
+|2126|[Destroying Asteroids](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2126.cpp)|Medium|
+|2127|[Maximum Employees to Be Invited to a Meeting](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2127.cpp)|Hard|
 
 
 
