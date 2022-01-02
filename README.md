@@ -90,6 +90,9 @@
 |2109|[Adding Spaces to a String](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2109.cpp)|Medium|
 |2110|[Number of Smooth Descent Periods of a Stock](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2110.cpp)|Medium|
 |2111|[Minimum Operations to Make the Array K-Increasing](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2111.cpp)|Hard|
+|2115|[Find All Possible Recipes from Given Supplies](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2115.cpp)|Medium|
+|2116|[Check if a Parentheses String Can Be Valid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2116.cpp)|Medium|
+|2117|[Abbreviating the Product of a Range](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2117.cpp)|Hard|
 |2120|[Execution of All Suffix Instructions Staying in a Grid](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2120.cpp)|Medium|
 |2121|[Intervals Between Identical Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2121.cpp)|Medium|
 |2122|[Recover the Original Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2122.cpp)|Hard|
