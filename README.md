@@ -101,6 +101,10 @@
 |2125|[Number of Laser Beams in a Bank](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2125.cpp)|Medium|
 |2126|[Destroying Asteroids](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2126.cpp)|Medium|
 |2127|[Maximum Employees to Be Invited to a Meeting](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2127.cpp)|Hard|
+|2130|[Capitalize the Title](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2129.rs)|Easy|
+|2130|[Maximum Twin Sum of a Linked List](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2130.rs)|Medium|
+|2131|[Longest Palindrome by Concatenating Two Letter Words](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2131.rs)|Medium|
+|2132|[Stamping the Grid](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2132.rs)|Hard|
 
 
 
