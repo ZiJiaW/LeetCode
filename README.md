@@ -105,6 +105,7 @@
 |2130|[Maximum Twin Sum of a Linked List](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2130.rs)|Medium|
 |2131|[Longest Palindrome by Concatenating Two Letter Words](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2131.rs)|Medium|
 |2132|[Stamping the Grid](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2132.rs)|Hard|
+|2134|[Minimum Swaps to Group All 1's Together II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2134.cpp)|Medium|
 
 
 
