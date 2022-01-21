@@ -106,6 +106,8 @@
 |2131|[Longest Palindrome by Concatenating Two Letter Words](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2131.rs)|Medium|
 |2132|[Stamping the Grid](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2132.rs)|Hard|
 |2134|[Minimum Swaps to Group All 1's Together II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2134.cpp)|Medium|
+|2135|[Count Words Obtained After Adding a Letter](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2135.cpp)|Medium|
+|2136|[Earliest Possible Day of Full Bloom](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2136.cpp)|Hard|
 
 
 
