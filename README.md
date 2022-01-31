@@ -108,6 +108,9 @@
 |2134|[Minimum Swaps to Group All 1's Together II](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2134.cpp)|Medium|
 |2135|[Count Words Obtained After Adding a Letter](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2135.cpp)|Medium|
 |2136|[Earliest Possible Day of Full Bloom](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2136.cpp)|Hard|
+|2139|[Minimum Moves to Reach Target Score](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2139.cpp)|Medium|
+|2140|[Solving Questions With Brainpower](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2140.cpp)|Medium|
+|2141|[Maximum Running Time of N Computers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2141.cpp)|Hard|
 
 
 
