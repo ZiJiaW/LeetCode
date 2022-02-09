@@ -111,6 +111,11 @@
 |2139|[Minimum Moves to Reach Target Score](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2139.cpp)|Medium|
 |2140|[Solving Questions With Brainpower](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2140.cpp)|Medium|
 |2141|[Maximum Running Time of N Computers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2141.cpp)|Hard|
+|2144|[Minimum Cost of Buying Candies With Discount](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2144.cpp)|Easy|
+|2145|[Count the Hidden Sequences](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2145.cpp)|Medium|
+|2146|[K Highest Ranked Items Within a Price Range](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2146.rs)|Medium|
+|2147|[Number of Ways to Divide a Long Corridor](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2147.cpp)|Hard|
+
 
 
 
