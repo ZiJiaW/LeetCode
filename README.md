@@ -115,6 +115,10 @@
 |2145|[Count the Hidden Sequences](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2145.cpp)|Medium|
 |2146|[K Highest Ranked Items Within a Price Range](https://github.com/ZiJiaW/LeetCode/blob/main/rs/2146.rs)|Medium|
 |2147|[Number of Ways to Divide a Long Corridor](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2147.cpp)|Hard|
+|2148|[Count Elements With Strictly Smaller and Greater Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2148.cpp)|Easy|
+|2149|[Rearrange Array Elements by Sign](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2149.cpp)|Medium|
+|2150|[Find All Lonely Numbers in the Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2150.cpp)|Medium|
+|2151|[Maximum Good People Based on Statements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2151.cpp)|Hard|
 
 
 
