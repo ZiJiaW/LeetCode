@@ -119,6 +119,8 @@
 |2149|[Rearrange Array Elements by Sign](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2149.cpp)|Medium|
 |2150|[Find All Lonely Numbers in the Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2150.cpp)|Medium|
 |2151|[Maximum Good People Based on Statements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2151.cpp)|Hard|
+|2154|[Keep Multiplying Found Values by Two](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2154.cpp)|Easy|
+|2156|[Find Substring With Given Hash Value](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2156.cpp)|Hard|
 
 
 
