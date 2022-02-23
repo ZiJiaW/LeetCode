@@ -121,6 +121,9 @@
 |2151|[Maximum Good People Based on Statements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2151.cpp)|Hard|
 |2154|[Keep Multiplying Found Values by Two](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2154.cpp)|Easy|
 |2156|[Find Substring With Given Hash Value](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2156.cpp)|Hard|
+|2161|[Partition Array According to Given Pivot](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2161.cpp)|Medium|
+|2162|[Minimum Cost to Set Cooking Time](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2162.cpp)|Medium|
+|2163|[Minimum Difference in Sums After Removal of Elements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2163.cpp)|Hard|
 |2164|[Sort Even and Odd Indices Independently](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2164.cpp)|Easy|
 |2165|[Smallest Value of the Rearranged Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2165.cpp)|Medium|
 |2166|[Design Bitset](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2166.cpp)|Medium|
