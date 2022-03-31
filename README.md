@@ -128,6 +128,10 @@
 |2165|[Smallest Value of the Rearranged Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2165.cpp)|Medium|
 |2166|[Design Bitset](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2166.cpp)|Medium|
 |2167|[Minimum Time to Remove All Cars Containing Illegal Goods](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2167.cpp)|Hard|
+|2169|[Count Operations to Obtain Zero](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2169.cpp)|Easy|
+|2170|[Minimum Operations to Make the Array Alternating](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2170.cpp)|Medium|
+|2171|[Removing Minimum Number of Magic Beans](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2171.cpp)|Medium|
+|2172|[Maximum AND Sum of Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2172.cpp)|Hard|
 
 
 
