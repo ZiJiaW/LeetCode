@@ -132,6 +132,8 @@
 |2170|[Minimum Operations to Make the Array Alternating](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2170.cpp)|Medium|
 |2171|[Removing Minimum Number of Magic Beans](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2171.cpp)|Medium|
 |2172|[Maximum AND Sum of Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2172.cpp)|Hard|
+|2177|[Find Three Consecutive Integers That Sum to a Given Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2177.cpp)|Medium|
+|2178|[Maximum Split of Positive Even Integers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2178.cpp)|Medium|
 
 
 
