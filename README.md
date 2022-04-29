@@ -120,6 +120,7 @@
 |2150|[Find All Lonely Numbers in the Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2150.cpp)|Medium|
 |2151|[Maximum Good People Based on Statements](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2151.cpp)|Hard|
 |2154|[Keep Multiplying Found Values by Two](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2154.cpp)|Easy|
+|2155|[All Divisions With the Highest Score of a Binary Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2155.cpp)|Medium|
 |2156|[Find Substring With Given Hash Value](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2156.cpp)|Hard|
 |2161|[Partition Array According to Given Pivot](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2161.cpp)|Medium|
 |2162|[Minimum Cost to Set Cooking Time](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2162.cpp)|Medium|
@@ -134,6 +135,7 @@
 |2172|[Maximum AND Sum of Array](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2172.cpp)|Hard|
 |2177|[Find Three Consecutive Integers That Sum to a Given Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2177.cpp)|Medium|
 |2178|[Maximum Split of Positive Even Integers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2178.cpp)|Medium|
+|2179|[Count Good Triplets](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2179.cpp)|Hard|
 
 
 
