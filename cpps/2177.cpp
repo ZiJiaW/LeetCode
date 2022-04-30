@@ -1,5 +1,4 @@
-class Solution
-{
+class Solution {
 public:
     vector<long long> sumOfThree(long long num)
     {
@@ -8,6 +7,6 @@ public:
         if (t != 0)
             return {};
         else
-            return {r, r + 1, r + 2};
+            return { r, r + 1, r + 2 };
     }
 };

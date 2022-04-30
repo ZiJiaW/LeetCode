@@ -4,6 +4,7 @@
 |---|---|---|
 |300|[Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |765|[Couples Holding Hands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/765.cpp)|Hard|
+|799|[Champagne Tower](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/799.cpp)|Medium|
 |822|[Card Flipping Game](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/822.cpp)|Medium|
 |823|[Binary Trees With Factors](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/823.cpp)|Medium|
 |866|[Prime Palindrome](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/866.cpp)|Medium|
