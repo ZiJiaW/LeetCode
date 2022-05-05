@@ -2,6 +2,7 @@
 
 |No.|Name|Hardness|
 |---|---|---|
+|4|[Median of Two Sorted Arrays](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/4.cpp)|Hard|
 |300|[Longest Increasing Subsequence](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/300.cpp)|Medium|
 |765|[Couples Holding Hands](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/765.cpp)|Hard|
 |799|[Champagne Tower](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/799.cpp)|Medium|
