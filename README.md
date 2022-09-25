@@ -139,6 +139,8 @@
 |2177|[Find Three Consecutive Integers That Sum to a Given Number](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2177.cpp)|Medium|
 |2178|[Maximum Split of Positive Even Integers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2178.cpp)|Medium|
 |2179|[Count Good Triplets](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2179.cpp)|Hard|
+|2410|[Count Good Triplets](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2410.cpp)|Medium|
+|2411|[Count Good Triplets](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2411.cpp)|Medium|
 
 
 
