@@ -142,6 +142,7 @@
 |2410|[Maximum Matching of Players With Trainers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2410.cpp)|Medium|
 |2411|[Smallest Subarrays With Maximum Bitwise OR](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2411.cpp)|Medium|
 |2412|[Minimum Money Required Before Transactions](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2412.cpp)|Hard|
+|2438|[Range Product Queries of Powers](https://github.com/ZiJiaW/LeetCode/blob/main/cpps/2438.cpp)|Medium|
 
 
 
